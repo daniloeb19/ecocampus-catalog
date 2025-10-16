@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Fornecedor 1",
+    "logo": "assets/fornecedor1.jpg",
+    "short": "Soluções sustentáveis para limpeza institucional.",
+    "service": "Produtos de limpeza biodegradáveis e refil.",
+    "contact": "contato@fornecedor1.com",
+    "website": "https://fornecedor1.exemplo"
+  },
+  {
+    "name": "Fornecedor 2",
+    "logo": "assets/fornecedor2.jpg",
+    "short": "Fornecimento de materiais reciclados para obras.",
+    "service": "Materiais de construção reciclada com certificação.",
+    "contact": "vendas@fornecedor2.com",
+    "website": "https://fornecedor2.exemplo"
+  }
+]

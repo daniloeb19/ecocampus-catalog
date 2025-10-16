@@ -1,13 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>EcoCampus Catalog</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>EcoCampus — Selos Verdes</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <h1>Welcome to EcoCampus Catalog</h1>
-    <script src="script.js"></script>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#">
+        <svg class="logo" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="#1f5f3b" d="M12 2C9 2 4 5 4 10c0 3.9 3.1 7 7 7s7-3.1 7-7c0-4-5-8-6-8z"></path>
+        </svg>
+        <span>EcoCampus</span>
+      </a>
+
+      <nav class="main-nav" aria-label="Navegação principal">
+        <a href="#selos">Selos Verdes</a>
+        <a href="#fornecedores">Fornecedores</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#contato">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="search-section">
+      <input id="searchInput" class="search-input" type="search" placeholder="Pesquisar fornecedores" aria-label="Pesquisar fornecedores" />
+      <button id="searchBtn" class="icon-btn" aria-label="Pesquisar">🔍</button>
+    </section>
+
+    <section id="fornecedores" class="fornecedores-section">
+      <h1>Fornecedores</h1>
+      <div id="cardsGrid" class="cards-grid" aria-live="polite">
+        <!-- Cards serão inseridos por script.js -->
+      </div>
+      <div id="noResults" class="no-results" hidden>Nenhum fornecedor encontrado.</div>
+    </section>
+
+    <section id="sobre" class="sobre">
+      <h2>Quem somos</h2>
+      <p>
+        Projeto universitário que reúne produtos e serviços com selos verdes para facilitar a
+        seleção por parte da universidade e estudantes. Este catálogo digital apresenta informações
+        básicas das empresas, seus serviços e formas de contato.
+      </p>
+    </section>
+
+    <section id="contato" class="contato">
+      <h2>Contato</h2>
+      <p>Email: ecocampus@exemplo.edu.br</p>
+    </section>
+  </main>
+
+  <!-- Modal simples para detalhes do fornecedor -->
+  <div id="modal" class="modal" aria-hidden="true">
+    <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button id="modalClose" class="modal-close" aria-label="Fechar">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© EcoCampus — Projeto universitário</small>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
