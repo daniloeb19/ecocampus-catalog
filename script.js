@@ -52,8 +52,8 @@ function renderCards(list){
       badge.innerHTML = ''
       badge.appendChild(img)
     } else {
-      badge.textContent = 'SELO
-VERDE'
+      // CORREÇÃO: usar \n em vez de quebra de linha literal
+      badge.textContent = 'SELO\nVERDE'
       badge.style.whiteSpace = 'pre-line'
       badge.style.textAlign = 'center'
       badge.style.fontSize = '13px'
