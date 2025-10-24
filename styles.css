@@ -45,7 +45,14 @@ body{
   font-weight:600;
 }
 .main-nav a:hover{text-decoration:underline}
-
+.brand .site-logo {
+  width: 48px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  border-radius: 6px;
+}
 /* Search */
 .search-section{
   margin:28px 0;
