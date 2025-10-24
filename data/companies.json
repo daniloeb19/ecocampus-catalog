@@ -1,1 +1,58 @@
-[{"name": "Fornecedor 1", "logo": "assets/fornecedor1.jpg", "short": "Soluções sustentáveis para limpeza institucional.", "service": "Produtos de limpeza biodegradáveis e refil.", "contact": "contato@fornecedor1.com", "website": "https://fornecedor1.exemplo"},{"name": "Fornecedor 2", "logo": "assets/fornecedor2.jpg", "short": "Fornecimento de materiais reciclados para obras.", "service": "Materiais de construção reciclada com certificação.", "contact": "vendas@fornecedor2.com", "website": "https://fornecedor2.exemplo"},{"name": "BioLimp", "logo": "assets/biolimp.jpg", "short": "Produtos de limpeza ecológicos para ambientes acadêmicos.", "service": "Soluções de higienização com ingredientes naturais e embalagens retornáveis.", "contact": "contato@biolimp.com", "website": "https://biolimp.example"},{"name": "RecyBuild", "logo": "assets/recybuild.jpg", "short": "Fornece materiais de construção reciclada e de baixo impacto.", "service": "Blocos, painéis e agregados feitos de resíduos reciclados com certificação.", "contact": "comercial@recybuild.com", "website": "https://recybuild.example"},{"name": "SolarCampus", "logo": "assets/solarcampus.jpg", "short": "Instalação e manutenção de pequenos sistemas solares fotovoltaicos.", "service": "Kits solares para prédios administrativos e monitoramento de consumo.", "contact": "contato@solarcampus.com", "website": "https://solarcampus.example"},{"name": "EcoOffice Supplies", "logo": "assets/ecooffice.jpg", "short": "Materiais de escritório reciclados e certificados.", "service": "Papel reciclado, cartuchos remanufaturados e mobiliário de madeira de reflorestamento.", "contact": "suporte@ecooffice.com", "website": "https://ecooffice.example"},{"name": "GreenCatering", "logo": "assets/greencatering.jpg", "short": "Serviços de alimentação com foco em ingredientes locais e produção sustentável.", "service": "Catering para eventos universitários com menu sazonal e embalagens compostáveis.", "contact": "events@greencatering.com", "website": "https://greencatering.example"},{"name": "AquaSave", "logo": "assets/aquasave.jpg", "short": "Soluções para redução e reuso de água em instalações.", "service": "Sistemas de captação de água da chuva, reuso e dispositivos economizadores.", "contact": "contato@aquasave.com", "website": "https://aquasave.example"}]
+[
+  {
+    "name": "DCDN - Distribuidora Cummins Diesel do Nordeste LTDA",
+    "logo": "assets/dcdn.jpg",
+    "short": "Distribuidora de motores e peças com práticas de gestão ambiental.",
+    "service": "Fornecimento e manutenção de motores, peças e serviços técnicos.",
+    "contact": "contato@dcdn.exemplo",
+    "website": "https://dcdn.example"
+  },
+  {
+    "name": "BRASCON Gestão Ambiental LTDA",
+    "logo": "assets/brascon.jpg",
+    "short": "Consultoria em gestão ambiental e licenciamento.",
+    "service": "Assessoria técnica, estudos ambientais e gerenciamento de resíduos.",
+    "contact": "contato@brascon.com",
+    "website": "https://brascon.example"
+  },
+  {
+    "name": "Green Paper Free Soluções Sem Papel LTDA",
+    "logo": "assets/greenpaperfree.jpg",
+    "short": "Soluções para digitalização e redução de uso de papel.",
+    "service": "Plataformas de gestão documental e digitalização de processos.",
+    "contact": "contato@greenpaperfree.com",
+    "website": "https://greenpaperfree.example"
+  },
+  {
+    "name": "EcoAlternativa Assessoria e Consultoria Ambiental LTDA",
+    "logo": "assets/ecoalternativa.jpg",
+    "short": "Consultoria ambiental especializada em projetos sustentáveis.",
+    "service": "Consultoria para projetos de sustentabilidade e certificações.",
+    "contact": "contato@ecoalternativa.com",
+    "website": "https://ecoalternativa.example"
+  },
+  {
+    "name": "Ultramega LTDA",
+    "logo": "assets/ultramega.jpg",
+    "short": "Fornecedora de equipamentos eficientes e soluções verdes.",
+    "service": "Equipamentos e manutenção com foco em eficiência energética.",
+    "contact": "vendas@ultramega.com",
+    "website": "https://ultramega.example"
+  },
+  {
+    "name": "Recicle Soluções Ambientais LTDA",
+    "logo": "assets/recicle.jpg",
+    "short": "Serviços de coleta e reciclagem para instituições.",
+    "service": "Coleta seletiva, triagem e destinação de resíduos.",
+    "contact": "contato@recicle.com",
+    "website": "https://recicle.example"
+  },
+  {
+    "name": "Recigreen LTDA",
+    "logo": "assets/recigreen.jpg",
+    "short": "Soluções integradas de reciclagem e economia circular.",
+    "service": "Projetos de logística reversa e reaproveitamento de materiais.",
+    "contact": "comercial@recigreen.com",
+    "website": "https://recigreen.example"
+  }
+]
