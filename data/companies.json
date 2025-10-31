@@ -318,7 +318,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/Logo-ERS.png",
+    "logo_filename": "assets/logos/logo-ers.png",
     "alt_text": "Logo ERS Brazil",
     "permission_use": "sim",
     "notes": ""
@@ -372,7 +372,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/logo FBS.jpg",
+    "logo_filename": "assets/logos/logo-fbs.jpg",
     "alt_text": "Logo FBS",
     "permission_use": "sim",
     "notes": ""
@@ -390,7 +390,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/a logo ecocasa.jfif",
+    "logo_filename": "assets/logos/a-logo-ecocasa.jfif",
     "alt_text": "Logo EcoCasa",
     "permission_use": "sim",
     "notes": ""
@@ -408,7 +408,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/a logo Ibaplac.jfif",
+    "logo_filename": "assets/logos/a-logo-ibaplac.jfif",
     "alt_text": "Logo Ibaplac",
     "permission_use": "sim",
     "notes": ""
@@ -426,7 +426,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/logo positiva.jfif",
+    "logo_filename": "assets/logos/logo-positiva.jfif",
     "alt_text": "Logo Positiva",
     "permission_use": "sim",
     "notes": ""
@@ -444,7 +444,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/logo Renko.png",
+    "logo_filename": "assets/logos/logo-renko.png",
     "alt_text": "Logo Renko",
     "permission_use": "sim",
     "notes": ""
@@ -462,7 +462,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "assets/logos/logo nordeste ambiental.png",
+    "logo_filename": "assets/logos/logo-nordeste-ambiental.png",
     "alt_text": "Logo Nordeste Ambiental",
     "permission_use": "sim",
     "notes": ""
