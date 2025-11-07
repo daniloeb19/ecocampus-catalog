@@ -4,7 +4,11 @@
     "name": "Ultra Mega",
     "slug": "ultra-mega",
     "sector": "Materiais Industriais",
-    "practices": ["painéis solares", "coleta seletiva", "iluminação LED"],
+    "practices": [
+      "painéis solares",
+      "coleta seletiva",
+      "iluminação LED"
+    ],
     "certifications": [],
     "selo": "Selo Verde (Jornal do Meio Ambiente)",
     "website": "",
@@ -22,7 +26,10 @@
     "name": "Brascon Gestão Ambiental",
     "slug": "brascon",
     "sector": "Gestão Ambiental",
-    "practices": ["consultoria ambiental", "gestão de resíduos"],
+    "practices": [
+      "consultoria ambiental",
+      "gestão de resíduos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -40,7 +47,10 @@
     "name": "Green Paperless",
     "slug": "green-paperless",
     "sector": "Soluções sem papel",
-    "practices": ["digitalização", "redução de papel"],
+    "practices": [
+      "digitalização",
+      "redução de papel"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -58,7 +68,11 @@
     "name": "EcoAlternativa",
     "slug": "ecoalternativa",
     "sector": "Assessoria Ambiental",
-    "practices": ["assessoria", "licenciamentos", "monitoramento"],
+    "practices": [
+      "assessoria",
+      "licenciamentos",
+      "monitoramento"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -76,7 +90,10 @@
     "name": "BIOWASH INDUSTRIA",
     "slug": "biowash",
     "sector": "Produtos de Limpeza",
-    "practices": ["produtos biodegradáveis", "fórmulas ecológicas"],
+    "practices": [
+      "produtos biodegradáveis",
+      "fórmulas ecológicas"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -94,7 +111,9 @@
     "name": "Boca da Mata",
     "slug": "boca-da-mata",
     "sector": "Produtos Naturais",
-    "practices": ["produtos naturais e orgânicos"],
+    "practices": [
+      "produtos naturais e orgânicos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -112,7 +131,10 @@
     "name": "Comadre Fulozinha",
     "slug": "comadre-fulozinha",
     "sector": "Produtos Orgânicos",
-    "practices": ["produtos orgânicos", "agroecologia"],
+    "practices": [
+      "produtos orgânicos",
+      "agroecologia"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -130,7 +152,10 @@
     "name": "Centro de Reciclagem do Nordeste",
     "slug": "crn",
     "sector": "Reciclagem",
-    "practices": ["reciclagem", "gestão de resíduos"],
+    "practices": [
+      "reciclagem",
+      "gestão de resíduos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -148,7 +173,10 @@
     "name": "DescTec Natureza e Tecnologia",
     "slug": "desctec",
     "sector": "Reciclagem/Recuperação de Eletrônicos",
-    "practices": ["remanufatura", "reciclagem de eletrônicos"],
+    "practices": [
+      "remanufatura",
+      "reciclagem de eletrônicos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -166,7 +194,10 @@
     "name": "Ecobras Gestão Ambiental",
     "slug": "ecobras",
     "sector": "Reciclagem/Gestão Ambiental",
-    "practices": ["gestão de resíduos", "coleta seletiva"],
+    "practices": [
+      "gestão de resíduos",
+      "coleta seletiva"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -184,7 +215,10 @@
     "name": "Fazenda Guata Porã",
     "slug": "fazenda-guata-pora",
     "sector": "Agricultura Orgânica",
-    "practices": ["produção orgânica", "agricultura sustentável"],
+    "practices": [
+      "produção orgânica",
+      "agricultura sustentável"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -202,7 +236,10 @@
     "name": "Recicle Soluções Ambientais",
     "slug": "recicle",
     "sector": "Reciclagem",
-    "practices": ["coleta e reciclagem", "logística reversa"],
+    "practices": [
+      "coleta e reciclagem",
+      "logística reversa"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -220,7 +257,10 @@
     "name": "Recigreen Tecnologias",
     "slug": "recigreen",
     "sector": "Tecnologia Verde",
-    "practices": ["tecnologia verde", "reciclagem"],
+    "practices": [
+      "tecnologia verde",
+      "reciclagem"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -238,7 +278,10 @@
     "name": "Reecicle",
     "slug": "reecicle",
     "sector": "Reciclagem",
-    "practices": ["reciclagem de eletrônicos", "logística reversa"],
+    "practices": [
+      "reciclagem de eletrônicos",
+      "logística reversa"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -256,7 +299,9 @@
     "name": "Sítio Boa Esperança / Ecobio",
     "slug": "sitio-boa-esperanca-ecobio",
     "sector": "Agricultura Orgânica",
-    "practices": ["produtos orgânicos"],
+    "practices": [
+      "produtos orgânicos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -274,7 +319,10 @@
     "name": "Korin",
     "slug": "korin",
     "sector": "Alimentos",
-    "practices": ["alimentos orgânicos", "produção sustentável"],
+    "practices": [
+      "alimentos orgânicos",
+      "produção sustentável"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -292,7 +340,10 @@
     "name": "Native",
     "slug": "native",
     "sector": "Alimentos",
-    "practices": ["alimentos naturais", "produtos sustentáveis"],
+    "practices": [
+      "alimentos naturais",
+      "produtos sustentáveis"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -303,6 +354,7 @@
     "logo_filename": "assets/_logos/__native.jpg",
     "alt_text": "Logo Native",
     "permission_use": "sim",
+    "short": "",
     "notes": ""
   },
   {
@@ -310,8 +362,18 @@
     "name": "ERS Brazil",
     "slug": "ers-brazil",
     "sector": "Reciclagem de Eletrônicos",
-    "practices": ["descarte de ativos de TI", "remanufatura", "reciclagem de equipamentos eletrônicos"],
-    "certifications": ["ISO 14001", "ISO 9001", "ISO 45001", "R2v3"],
+    "practices": [
+      "descarte seguro de ativos de TI",
+      "remanufatura",
+      "reciclagem de equipamentos eletrônicos",
+      "logística reversa"
+    ],
+    "certifications": [
+      "ISO 14001",
+      "ISO 9001",
+      "ISO 45001",
+      "R2v3"
+    ],
     "selo": "",
     "website": "https://ersbrazil.com",
     "contact_email": "",
@@ -321,14 +383,20 @@
     "logo_filename": "assets/_logos/__ers_environmental_recovery.png",
     "alt_text": "Logo ERS Brazil",
     "permission_use": "sim",
-    "notes": ""
+    "short": "Empresa especializada em reciclagem e remanufatura de equipamentos eletrônicos, com foco em economia circular.",
+    "notes": "ERS Brazil (anteriormente 'Electronics Recycling Services do Brasil') atua no descarte seguro e remanufatura de ativos de TI. Possui certificações ISO 14001, ISO 9001, ISO 45001 e R2v3, indicando práticas formais de gestão ambiental, qualidade e segurança. Verificar site para contatos e unidades regionais."
   },
   {
     "id": 19,
     "name": "NTC Company",
     "slug": "ntc",
     "sector": "Moldes e Peças Plásticas",
-    "practices": ["instalação de painéis solares", "coleta seletiva", "eficiência energética"],
+    "practices": [
+      "instalação de painéis solares",
+      "coleta seletiva",
+      "eficiência energética",
+      "processos industriais sustentáveis"
+    ],
     "certifications": [],
     "selo": "Selo Verde (Jornal do Meio Ambiente)",
     "website": "",
@@ -339,14 +407,18 @@
     "logo_filename": "assets/_logos/__ntc.png",
     "alt_text": "Logo NTC Company",
     "permission_use": "sim",
-    "notes": ""
+    "short": "Empresa de moldes e peças plásticas técnicas reconhecida pelo Selo Verde por práticas sustentáveis.",
+    "notes": "NTC Company foi reconhecida com o 'Selo Verde' (Jornal do Meio Ambiente) por medidas como instalação de painéis solares, coleta seletiva e eficiência energética. Recomenda‑se confirmar no material de comunicação da empresa detalhes de certificações, contatos e unidades."
   },
   {
     "id": 20,
     "name": "Reciclagem Brasil",
     "slug": "reciclagem-brasil",
     "sector": "Reciclagem",
-    "practices": ["reciclagem", "gestão de resíduos"],
+    "practices": [
+      "reciclagem",
+      "gestão de resíduos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -364,7 +436,10 @@
     "name": "FBS Construção Civil e Pavimentação S.A.",
     "slug": "fbs",
     "sector": "Construção Civil",
-    "practices": ["construção sustentável", "pavimentação"],
+    "practices": [
+      "construção sustentável",
+      "pavimentação"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://example.com",
@@ -382,7 +457,10 @@
     "name": "EcoCasa",
     "slug": "ecocasa",
     "sector": "Construção Civil",
-    "practices": ["construção sustentável", "materiais reciclados"],
+    "practices": [
+      "construção sustentável",
+      "materiais reciclados"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -400,7 +478,10 @@
     "name": "Ibaplac",
     "slug": "ibaplac",
     "sector": "Materiais Reciclados",
-    "practices": ["produtos reciclados", "materiais para construção"],
+    "practices": [
+      "produtos reciclados",
+      "materiais para construção"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -418,7 +499,10 @@
     "name": "Positiva Comercio de Produtos e Serviços Ecológicos S.A.",
     "slug": "positiva",
     "sector": "Produtos de Limpeza",
-    "practices": ["produtos ecológicos", "detergentes biodegradáveis"],
+    "practices": [
+      "produtos ecológicos",
+      "detergentes biodegradáveis"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -436,7 +520,9 @@
     "name": "NOVA RENKO INDUSTRIAL LTDA",
     "slug": "renko",
     "sector": "Produtos de Limpeza/Industrial",
-    "practices": ["produtos de limpeza ecológicos"],
+    "practices": [
+      "produtos de limpeza ecológicos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -454,7 +540,10 @@
     "name": "Nordeste Ambiental Recife Ltda",
     "slug": "nordeste-ambiental",
     "sector": "Serviços Ambientais",
-    "practices": ["serviços de gestão ambiental", "consultoria"],
+    "practices": [
+      "serviços de gestão ambiental",
+      "consultoria"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -467,7 +556,7 @@
     "permission_use": "sim",
     "notes": ""
   },
-   {
+  {
     "id": 27,
     "name": "Artesianos Urbanismo",
     "slug": "artesianos-urbanismo",
@@ -491,7 +580,10 @@
     "name": "Brascon Gestão Ambiental (variante de logo)",
     "slug": "brascon-gestao-ambiental-variante",
     "sector": "Gestão Ambiental",
-    "practices": ["consultoria ambiental", "gestão de resíduos"],
+    "practices": [
+      "consultoria ambiental",
+      "gestão de resíduos"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -579,7 +671,7 @@
     "alt_text": "Logo Desembala",
     "permission_use": "sim",
     "short": "",
-    "notes": "Pesquisar: 'Desembala' possivelmente relacionado a logística/embalagens/reciclagem de embalagens. Buscar 'Desembala empresa embalagens' para confirmar."
+    "notes": "Pesquisar: 'Desembala' possivelmente relacionado a logística/embalagens/reciclagem de embalagens. Buscar 'Desembala embalagens' para confirmar."
   },
   {
     "id": 33,
@@ -605,7 +697,12 @@
     "name": "Ecolab",
     "slug": "ecolab",
     "sector": "Produtos de Limpeza / Higiene",
-    "practices": ["higiene industrial", "produtos de limpeza", "tratamento de água"],
+    "practices": [
+      "higiene industrial e comercial",
+      "tratamento de água",
+      "produtos de limpeza sustentáveis",
+      "consultoria em segurança sanitária"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://www.ecolab.com",
@@ -617,7 +714,7 @@
     "alt_text": "Logo Ecolab",
     "permission_use": "sim",
     "short": "Fornecedor global de soluções para higiene, limpeza e tratamento de água.",
-    "notes": "Ecolab é uma empresa global que fornece produtos e serviços para higiene, limpeza e tratamento de água em indústrias e estabelecimentos. Verificar presença/localização da filial brasileira para contato."
+    "notes": "Ecolab é multinacional com ampla presença em soluções de higiene, segurança alimentar e tratamento de água. Para incluir contatos locais e certificações regionais, consultar o site e a filial brasileira."
   },
   {
     "id": 35,
@@ -643,7 +740,12 @@
     "name": "Klabin",
     "slug": "klabin",
     "sector": "Papel e Celulose",
-    "practices": ["papel reciclado", "produção sustentável", "economia circular"],
+    "practices": [
+      "produção de papel e celulose",
+      "uso de papel reciclado",
+      "manejo florestal sustentável",
+      "logística reversa"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://www.klabin.com.br",
@@ -654,8 +756,8 @@
     "logo_filename": "assets/_logos/__klabin.jpeg",
     "alt_text": "Logo Klabin",
     "permission_use": "sim",
-    "short": "Empresa brasileira líder em produção de papel e celulose, com iniciativas de sustentabilidade.",
-    "notes": "Klabin é um grande produtor de papel e celulose no Brasil; destaque por iniciativas em reciclagem, logística reversa e manejo florestal sustentável. Use site corporativo para validar contatos e certificações."
+    "short": "Empresa brasileira líder em papel e celulose com iniciativas de sustentabilidade e economia circular.",
+    "notes": "Klabin desenvolve programas de manejo florestal responsável, reciclagem e projetos de economia circular. Use o site oficial para validar contatos, certificações e programas ambientais específicos."
   },
   {
     "id": 37,
@@ -738,7 +840,10 @@
     "name": "Orgânico (sem marca)",
     "slug": "organico-sem-marca",
     "sector": "Produtos Orgânicos / Genérico",
-    "practices": ["rotulagem orgânica", "produtos sem marca"],
+    "practices": [
+      "rotulagem orgânica",
+      "produtos sem marca"
+    ],
     "certifications": [],
     "selo": "",
     "website": "",
@@ -795,7 +900,11 @@
     "name": "Suzano",
     "slug": "suzano",
     "sector": "Papel e Celulose",
-    "practices": ["papel e celulose", "produção sustentável"],
+    "practices": [
+      "produção de papel e celulose",
+      "iniciativas de manejo florestal",
+      "projetos de reciclagem e biomateriais"
+    ],
     "certifications": [],
     "selo": "",
     "website": "https://www.suzano.com.br",
@@ -806,8 +915,8 @@
     "logo_filename": "assets/_logos/__suzano.png",
     "alt_text": "Logo Suzano",
     "permission_use": "sim",
-    "short": "Multinacional brasileira do setor de papel e celulose, com iniciativas de sustentabilidade florestal e economia circular.",
-    "notes": "Suzano é uma das maiores empresas de papel e celulose do Brasil, conhecida por escala e políticas de sustentabilidade. Use site oficial para contatos e certificações."
+    "short": "Multinacional brasileira do setor de papel e celulose com iniciativas de sustentabilidade florestal.",
+    "notes": "Suzano é referência nacional em papel e celulose com políticas de sustentabilidade. Consultar relatórios e site oficial para contatos, certificações e projetos de impacto ambiental."
   },
   {
     "id": 45,
