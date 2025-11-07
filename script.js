@@ -24,6 +24,80 @@ async function loadData(){
   }
 }
 
+function createLogoElement(company) {
+  const wrapper = document.createElement('div')
+  wrapper.className = 'badge' // mantém estilo atual
+
+  // prefer logo_filename (se veio do JSON), senão usa logo
+  const logoField = company.logo_filename || company.logo || ''
+
+  if (!logoField) {
+    // sem informação de logo -> badge fallback
+    const badge = document.createElement('div')
+    badge.className = 'badge-inner'
+    badge.style.whiteSpace = 'pre-line'
+    badge.style.textAlign = 'center'
+    badge.style.fontSize = '13px'
+    badge.textContent = 'SELO\nVERDE'
+    wrapper.innerHTML = ''
+    wrapper.appendChild(badge)
+    return wrapper
+  }
+
+  // montar candidatos que cobrem os cenários mais comuns
+  const withoutFiles = logoField.replace(/^files\//, '')
+  const candidates = [
+    logoField,                // caminho exatamente como no JSON
+    withoutFiles,             // remove leading "files/"
+    '/' + withoutFiles,       // root-relative
+    withoutFiles.replace(/^assets\//, ''), // alternativa sem assets/ (se necessário)
+  ].filter(Boolean)
+
+  // criar img e tentar carregar candidatos
+  const img = document.createElement('img')
+  img.className = 'company-logo'
+  img.alt = company.alt_text || company.name || 'logo'
+  img.style.width = '84px'
+  img.style.height = '84px'
+  img.style.objectFit = 'cover'
+  img.style.borderRadius = '50%'
+
+  let i = 0
+  img.src = candidates[i]
+
+  // debug (remova ou comente em produção se quiser)
+  console.debug('Logo candidates for', company.name, candidates)
+
+  img.onerror = function () {
+    i++
+    if (i < candidates.length) {
+      img.src = candidates[i]
+      return
+    }
+    // todos falharam -> mostrar badge em vez de img
+    img.remove()
+    const badge = document.createElement('div')
+    badge.className = 'badge-inner'
+    badge.style.whiteSpace = 'pre-line'
+    badge.style.textAlign = 'center'
+    badge.style.fontSize = '13px'
+    badge.textContent = 'SELO\nVERDE'
+    wrapper.innerHTML = ''
+    wrapper.appendChild(badge)
+  }
+
+  img.onload = function () {
+    // imagem carregou corretamente; garantir que o wrapper contenha apenas a img
+    wrapper.innerHTML = ''
+    wrapper.appendChild(img)
+  }
+
+  // inicialmente colocar img (irá disparar onload ou onerror)
+  wrapper.innerHTML = ''
+  wrapper.appendChild(img)
+  return wrapper
+}
+
 function renderCards(list){
   cardsGrid.innerHTML = ''
   if(!list.length){
@@ -37,27 +111,8 @@ function renderCards(list){
     card.className = 'card'
     card.tabIndex = 0
 
-    // Badge / logo
-    const badge = document.createElement('div')
-    badge.className = 'badge'
-    if(c.logo){
-      // se houver logo, usamos imagem circular
-      const img = document.createElement('img')
-      img.src = c.logo
-      img.alt = `${c.name} logo`
-      img.style.width = '84px'
-      img.style.height = '84px'
-      img.style.objectFit = 'cover'
-      img.style.borderRadius = '50%'
-      badge.innerHTML = ''
-      badge.appendChild(img)
-    } else {
-      // CORREÇÃO: usar \n em vez de quebra de linha literal
-      badge.textContent = 'SELO\nVERDE'
-      badge.style.whiteSpace = 'pre-line'
-      badge.style.textAlign = 'center'
-      badge.style.fontSize = '13px'
-    }
+    // Badge / logo (usa createLogoElement agora)
+    const badgeEl = createLogoElement(c)
 
     const body = document.createElement('div')
     body.className = 'card-body'
@@ -75,7 +130,7 @@ function renderCards(list){
     body.appendChild(short)
     body.appendChild(more)
 
-    card.appendChild(badge)
+    card.appendChild(badgeEl)
     card.appendChild(body)
 
     // abrir modal com detalhes
