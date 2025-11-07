@@ -12,7 +12,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ultra_mega.jpeg",
+    "logo_filename": "assets/_logos/__ultra_mega.jpeg",
     "alt_text": "Logo Ultra Mega",
     "permission_use": "sim",
     "notes": ""
@@ -30,7 +30,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/brascon.png",
+    "logo_filename": "assets/_logos/__brascon.png",
     "alt_text": "Logo Brascon",
     "permission_use": "sim",
     "notes": ""
@@ -48,7 +48,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/green_paperless.jpeg",
+    "logo_filename": "assets/_logos/__green_paperless.jpeg",
     "alt_text": "Logo Green Paperless",
     "permission_use": "sim",
     "notes": ""
@@ -66,7 +66,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/eco-alternativa.jpeg",
+    "logo_filename": "assets/_logos/__eco-alternativa.jpeg",
     "alt_text": "Logo EcoAlternativa",
     "permission_use": "sim",
     "notes": ""
@@ -84,7 +84,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/biowash.jpeg",
+    "logo_filename": "assets/_logos/__biowash.jpeg",
     "alt_text": "Logo BIOWASH",
     "permission_use": "sim",
     "notes": ""
@@ -102,7 +102,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/boca_da_mata.jpeg",
+    "logo_filename": "assets/_logos/__boca_da_mata.jpeg",
     "alt_text": "Logo Boca da Mata",
     "permission_use": "sim",
     "notes": ""
@@ -120,7 +120,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/comadre_fulozinha.jpeg",
+    "logo_filename": "assets/_logos/__comadre_fulozinha.jpeg",
     "alt_text": "Logo Comadre Fulozinha",
     "permission_use": "sim",
     "notes": ""
@@ -138,7 +138,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/crn.jpeg",
+    "logo_filename": "assets/_logos/__crn.jpeg",
     "alt_text": "Logo CRN",
     "permission_use": "sim",
     "notes": ""
@@ -156,7 +156,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/desctec.jpeg",
+    "logo_filename": "assets/_logos/__desctec.jpeg",
     "alt_text": "Logo DescTec",
     "permission_use": "sim",
     "notes": ""
@@ -174,7 +174,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ecobras.jpeg",
+    "logo_filename": "assets/_logos/__ecobras.jpeg",
     "alt_text": "Logo Ecobras",
     "permission_use": "sim",
     "notes": ""
@@ -192,7 +192,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/fazenda_guata_pora.jpeg",
+    "logo_filename": "assets/_logos/__fazenda_guata_pora.jpeg",
     "alt_text": "Logo Fazenda Guata Porã",
     "permission_use": "sim",
     "notes": ""
@@ -210,7 +210,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/recicle.jpeg",
+    "logo_filename": "assets/_logos/__recicle.jpeg",
     "alt_text": "Logo Recicle",
     "permission_use": "sim",
     "notes": ""
@@ -228,7 +228,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/recigreen.jpeg",
+    "logo_filename": "assets/_logos/__recigreen.jpeg",
     "alt_text": "Logo Recigreen",
     "permission_use": "sim",
     "notes": ""
@@ -246,7 +246,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/reeecicle.jpeg",
+    "logo_filename": "assets/_logos/__reeecicle.jpeg",
     "alt_text": "Logo Reecicle",
     "permission_use": "sim",
     "notes": ""
@@ -264,7 +264,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/sitio-boa-esperanca-ecobio.jpeg",
+    "logo_filename": "assets/_logos/__sitio-boa-esperanca-ecobio.jpeg",
     "alt_text": "Logo Sítio Boa Esperança / Ecobio",
     "permission_use": "sim",
     "notes": ""
@@ -282,7 +282,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/grupo_korin.jpeg",
+    "logo_filename": "assets/_logos/__grupo_korin.jpeg",
     "alt_text": "Logo Korin",
     "permission_use": "sim",
     "notes": ""
@@ -300,7 +300,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/korin-native.jpeg",
+    "logo_filename": "assets/_logos/__korin-native.jpeg",
     "alt_text": "Logo Native",
     "permission_use": "sim",
     "notes": ""
@@ -318,7 +318,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ers_environmental_recovery.png",
+    "logo_filename": "assets/_logos/__ers_environmental_recovery.png",
     "alt_text": "Logo ERS Brazil",
     "permission_use": "sim",
     "notes": ""
@@ -336,7 +336,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ntc.png",
+    "logo_filename": "assets/_logos/__ntc.png",
     "alt_text": "Logo NTC Company",
     "permission_use": "sim",
     "notes": ""
@@ -354,7 +354,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/reciclagem_brasil.jpeg",
+    "logo_filename": "assets/_logos/__reciclagem_brasil.jpeg",
     "alt_text": "Logo Reciclagem Brasil",
     "permission_use": "sim",
     "notes": ""
@@ -372,7 +372,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/fbs.jpeg",
+    "logo_filename": "assets/_logos/__fbs.jpeg",
     "alt_text": "Logo FBS",
     "permission_use": "sim",
     "notes": ""
@@ -390,7 +390,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ecocasa.jpeg",
+    "logo_filename": "assets/_logos/__ecocasa.jpeg",
     "alt_text": "Logo EcoCasa",
     "permission_use": "sim",
     "notes": ""
@@ -408,7 +408,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/ibaplac_produtos_reciclaveis.jpeg",
+    "logo_filename": "assets/_logos/__ibaplac_produtos_reciclaveis.jpeg",
     "alt_text": "Logo Ibaplac",
     "permission_use": "sim",
     "notes": ""
@@ -426,7 +426,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/positiva.jpeg",
+    "logo_filename": "assets/_logos/__positiva.jpeg",
     "alt_text": "Logo Positiva",
     "permission_use": "sim",
     "notes": ""
@@ -444,7 +444,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/renko.png",
+    "logo_filename": "assets/_logos/__renko.png",
     "alt_text": "Logo Renko",
     "permission_use": "sim",
     "notes": ""
@@ -462,7 +462,7 @@
     "contact_phone": "",
     "city": "",
     "state": "",
-    "logo_filename": "files/assets/_logos/nordeste_ambiental.png",
+    "logo_filename": "assets/_logos/__nordeste_ambiental.png",
     "alt_text": "Logo Nordeste Ambiental",
     "permission_use": "sim",
     "notes": ""
