@@ -13,37 +13,55 @@
         <img src="assets/ecocampus_logo.jpg" alt="EcoCampus" class="site-logo" />
         <span>EcoCampus</span>
       </a>
-
+      <div class="institutional-logos">
+        <img src="assets/images/ufrpe-logo.jpg" alt="Logo UFRPE" class="inst-logo" />
+        <img src="assets/images/engenharia-ambiental.jpg" alt="Logo Curso de Engenharia Ambiental" class="inst-logo" />
+      </div>
       <nav class="main-nav" aria-label="Navegação principal">
-        <a href="#selos">Selos Verdes</a>
+        <a href="#sobre">Quem somos</a>
         <a href="#fornecedores">Fornecedores</a>
-        <a href="#sobre">Sobre</a>
         <a href="#contato">Contato</a>
       </nav>
     </div>
   </header>
 
   <main class="container">
-    <section class="search-section">
-      <input id="searchInput" class="search-input" type="search" placeholder="Pesquisar fornecedores" aria-label="Pesquisar fornecedores" />
-      <button id="searchBtn" class="icon-btn" aria-label="Pesquisar">🔍</button>
+    <!-- Quem Somos no topo -->
+    <section id="sobre" class="sobre-top">
+      <h1>Quem somos</h1>
+      <p>
+        O projeto ECOCAMPUS desenvolveu um catálogo digital de empresas que possuem certificações de sustentabilidade,
+        visando facilitar os processos de seleções licitatório da Universidade Federal Rural de Pernambuco (UFRPE).
+        Destinado ao setor de compras da universidade, o site busca promover a aquisição de produtos e serviços de
+        fornecedores comprometidos com práticas sustentáveis e ambientalmente responsáveis. Elaborado por discentes do
+        curso de Engenharia Ambiental, o catálogo disponibiliza informações essenciais sobre as empresas, como tipos de
+        selos, serviços oferecidos e contato. Dessa forma, a iniciativa contribui para o fortalecimento das ações
+        sustentáveis na UFRPE, incentivando o consumo consciente, a gestão ambiental eficiente e a integração entre o
+        meio acadêmico e o setor produtivo sustentável.
+      </p>
+    </section>
+
+    <!-- Barra de filtros -->
+    <section class="filters-section" aria-label="Filtros">
+      <div class="filter-group">
+        <label for="sectorFilter" class="filter-label">Filtrar por setor:</label>
+        <select id="sectorFilter" class="filter-select" aria-label="Filtrar por setor">
+          <option value="">Todos os setores</option>
+        </select>
+      </div>
+
+      <div class="search-section">
+        <input id="searchInput" class="search-input" type="search" placeholder="Pesquisar fornecedores" aria-label="Pesquisar fornecedores" />
+        <button id="searchBtn" class="icon-btn" aria-label="Pesquisar">🔍</button>
+      </div>
     </section>
 
     <section id="fornecedores" class="fornecedores-section">
-      <h1>Fornecedores</h1>
+      <h2>Fornecedores</h2>
       <div id="cardsGrid" class="cards-grid" aria-live="polite">
-        <!-- Cards serão inseridos por script.js -->
+        <!-- Cards gerados por script.js -->
       </div>
       <div id="noResults" class="no-results" hidden>Nenhum fornecedor encontrado.</div>
-    </section>
-
-    <section id="sobre" class="sobre">
-      <h2>Quem somos</h2>
-      <p>
-        Projeto universitário que reúne produtos e serviços com selos verdes para facilitar a
-        seleção por parte da universidade e estudantes. Este catálogo digital apresenta informações
-        básicas das empresas, seus serviços e formas de contato.
-      </p>
     </section>
 
     <section id="contato" class="contato">
@@ -52,7 +70,7 @@
     </section>
   </main>
 
-  <!-- Modal simples para detalhes do fornecedor -->
+  <!-- Modal -->
   <div id="modal" class="modal" aria-hidden="true">
     <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
       <button id="modalClose" class="modal-close" aria-label="Fechar">×</button>
@@ -62,7 +80,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <small>© EcoCampus — Projeto universitário</small>
+      <small>© EcoCampus — Projeto universitário (UFRPE / Engenharia Ambiental)</small>
     </div>
   </footer>
 
