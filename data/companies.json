@@ -627,26 +627,6 @@
     "description": "Variante visual da mesma empresa listada como Brascon Gestão Ambiental. Consolidar dados em uma única entrada se não houver necessidade de manter versões de logomarca."
   },
   {
-    "id": 29,
-    "name": "Cocal",
-    "slug": "cocal",
-    "sector": "",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__cocal.png",
-    "alt_text": "Logo Cocal",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: 'Cocal' é nome genérico (pode ser empresa local ou marca). Buscar por 'Cocal logo reciclagem' ou 'Cocal empresa' para confirmar identidade.",
-    "description": "Identidade ainda genérica. É preciso validar se refere-se a grupo sucroalcooleiro, marca local ou outro segmento antes de definir setor e práticas sustentáveis."
-  },
-  {
     "id": 30,
     "name": "Conam",
     "slug": "conam",
@@ -710,26 +690,6 @@
     "short": "",
     "notes": "Pesquisar: 'Desembala' possivelmente relacionado a logística/embalagens/reciclagem de embalagens. Buscar 'Desembala embalagens' para confirmar.",
     "description": "Razão social: Desembala Soluções Sustentáveis Ltda (CNPJ 31.288.090/0001-91). Fundada em 21/08/2018 em Itajubá/MG. Atividade principal: comércio varejista de produtos saneantes domissanitários (CNAE 47.89-0-05). Oferece produtos de limpeza ecológicos em refil (sachês hidrossolúveis), reduzindo uso de plástico e embalagens, com foco em impacto ambiental reduzido."
-  },
-  {
-    "id": 33,
-    "name": "Dexco",
-    "slug": "dexco",
-    "sector": "",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__dexco.png",
-    "alt_text": "Logo Dexco",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: Dexco pode ser empresa de construção/indústria. Buscar 'Dexco Brasil' ou 'Dexco empresa' para contexto.",
-    "description": "Empresa potencialmente de materiais de construção ou soluções industriais. Falta validar para incluir práticas e certificações ambientais específicas."
   },
   {
     "id": 34,
@@ -905,26 +865,6 @@
     "description": "Representa provável iniciativa de comercialização de produtos orgânicos com foco em consumo consciente e acessibilidade, sem ênfase em branding tradicional. Usado como placeholder quando não há marca identificada."
   },
   {
-    "id": 42,
-    "name": "Papyrus",
-    "slug": "papyrus",
-    "sector": "",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__papyrus.jpeg",
-    "alt_text": "Logo Papyrus",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: 'Papyrus' pode referir-se a empresas de papel ou papelaria. Buscar 'Papyrus Brasil' para confirmação.",
-    "description": "Necessário confirmar se atua em papel, logística documental ou outro segmento. Sem dados suficientes para categorização sustentável detalhada."
-  },
-  {
     "id": 43,
     "name": "SpecialDog",
     "slug": "specialdog",
@@ -987,25 +927,5 @@
     "short": "",
     "notes": "Pesquisar: 'Veris' pode ser nome de consultoria, fintech ou outro; buscar 'Veris Brasil' para identificar corretamente.",
     "description": "Certificada com o selo 'Selo Muda Recicla', indicando compromisso com compensação ambiental de embalagens pós-consumo (garantia de encaminhamento para reciclagem). Foco em aumento de taxa de reciclagem, conservação de recursos naturais, redução de CO₂ e apoio a cooperativas. Não há descrição detalhada pública de serviços de coleta/tratamento — perfil voltado a compensação."
-  },
-  {
-    "id": 46,
-    "name": "Vossko",
-    "slug": "vossko",
-    "sector": "",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__vossko.png",
-    "alt_text": "Logo Vossko",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: nome incomum — buscar 'Vossko' + 'empresa' ou 'Vossko Brasil' para confirmar o ramo.",
-    "description": "Necessário confirmar ramo (alimentos processados, logística ou outro). Sem dados suficientes para incluir práticas sustentáveis."
   }
 ]
