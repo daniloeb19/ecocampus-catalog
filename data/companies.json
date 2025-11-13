@@ -9,8 +9,10 @@
       "coleta seletiva",
       "iluminação LED"
     ],
-    "certifications": [],
-    "selo": "Selo Verde (Jornal do Meio Ambiente)",
+    "certifications": [
+      "Selo Empresa Verde 2024 (Jucepe)"
+    ],
+    "selo": "Selo Empresa Verde 2024 (Jucepe)",
     "website": "",
     "contact_email": "",
     "contact_phone": "",
@@ -31,7 +33,9 @@
       "consultoria ambiental",
       "gestão de resíduos"
     ],
-    "certifications": [],
+    "certifications": [
+      "ISO 14001"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -53,8 +57,10 @@
       "digitalização",
       "redução de papel"
     ],
-    "certifications": [],
-    "selo": "",
+    "certifications": [
+      "Selo Empresa Verde 2025 (Jucepe)"
+    ],
+    "selo": "Selo Empresa Verde 2025 (Jucepe)",
     "website": "",
     "contact_email": "",
     "contact_phone": "",
@@ -76,8 +82,10 @@
       "licenciamentos",
       "monitoramento"
     ],
-    "certifications": [],
-    "selo": "",
+    "certifications": [
+      "Eco Método Selo Verde"
+    ],
+    "selo": "Eco Método Selo Verde",
     "website": "",
     "contact_email": "",
     "contact_phone": "",
@@ -98,7 +106,10 @@
       "produtos biodegradáveis",
       "fórmulas ecológicas"
     ],
-    "certifications": [],
+    "certifications": [
+      "IBD",
+      "Eu Reciclo"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -119,7 +130,9 @@
     "practices": [
       "produtos naturais e orgânicos"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -141,7 +154,9 @@
       "produtos orgânicos",
       "agroecologia"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -163,7 +178,10 @@
       "gestão de resíduos",
       "coleta seletiva"
     ],
-    "certifications": [],
+    "certifications": [
+      "ISO 14001",
+      "CDR - Certificado de Destinação de Resíduos"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -185,7 +203,9 @@
       "produção orgânica",
       "agricultura sustentável"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -207,7 +227,9 @@
       "tecnologia verde",
       "reciclagem"
     ],
-    "certifications": [],
+    "certifications": [
+      "Green Friendly Construction (GFC)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -229,7 +251,9 @@
       "reciclagem de eletrônicos",
       "logística reversa"
     ],
-    "certifications": [],
+    "certifications": [
+      "Eu Reciclo"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -250,7 +274,9 @@
     "practices": [
       "produtos orgânicos"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -272,9 +298,16 @@
       "alimentos orgânicos",
       "produção sustentável"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)",
+      "Eu Reciclo",
+      "Aquicultura Responsável (ASC)",
+      "Sem Organismos Geneticamente Modificados (IBD)",
+      "Humane Farm Animal Care (HFAC)",
+      "Nenhum Antibiótico e Nenhum Anticoccidiano Utilizado (NAAU)"
+    ],
     "selo": "",
-    "website": "",
+    "website": "https://www.korin.com.br",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -295,7 +328,9 @@
       "alimentos naturais",
       "produtos sustentáveis"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -350,7 +385,9 @@
       "eficiência energética",
       "processos industriais sustentáveis"
     ],
-    "certifications": [],
+    "certifications": [
+      "Certificado de Consumo de Energia Renovável"
+    ],
     "selo": "Selo Verde (Jornal do Meio Ambiente)",
     "website": "",
     "contact_email": "",
@@ -373,7 +410,10 @@
       "reciclagem",
       "gestão de resíduos"
     ],
-    "certifications": [],
+    "certifications": [
+      "Comerc",
+      "Eu Reciclo"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -395,7 +435,9 @@
       "construção sustentável",
       "pavimentação"
     ],
-    "certifications": [],
+    "certifications": [
+      "ISO 14001"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -417,7 +459,10 @@
       "construção sustentável",
       "materiais reciclados"
     ],
-    "certifications": [],
+    "certifications": [
+      "LEED",
+      "AQUA - Alta Qualidade Ambiental"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -427,7 +472,7 @@
     "logo_filename": "assets/_logos/__ecocasa.jpeg",
     "alt_text": "Logo EcoCasa",
     "permission_use": "sim",
-    "notes": "",
+    "notes": "Pesquisar: EcoCasa possivelmente detalhar portfólio (projetos residenciais/comerciais), e soluções de eficiência energética aplicadas.",
     "description": "Empresa de construção que incorpora materiais reciclados e práticas sustentáveis. Sugere-se detalhar portfólio (projetos residenciais/comerciais), e soluções de eficiência energética aplicadas."
   },
   {
@@ -439,7 +484,9 @@
       "produtos reciclados",
       "materiais para construção"
     ],
-    "certifications": [],
+    "certifications": [
+      "ISO 9001"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -461,7 +508,12 @@
       "produtos ecológicos",
       "detergentes biodegradáveis"
     ],
-    "certifications": [],
+    "certifications": [
+      "Empresa B",
+      "IBD",
+      "SVB",
+      "Eu Reciclo"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -482,7 +534,9 @@
     "practices": [
       "produtos de limpeza ecológicos"
     ],
-    "certifications": [],
+    "certifications": [
+      "Rótulo Ecológico ABNT (Tipo I)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -526,7 +580,9 @@
     "slug": "desembala",
     "sector": "Produtos de Limpeza Sustentáveis",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Forest Stewardship Council (FSC)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -551,7 +607,14 @@
       "produtos de limpeza sustentáveis",
       "consultoria em segurança sanitária"
     ],
-    "certifications": [],
+    "certifications": [
+      "Rótulo Ecológico ABNT",
+      "EU Ecolabel",
+      "Nordic Swan",
+      "Blue Angel",
+      "Korean Ecolabel",
+      "USDA Biobased"
+    ],
     "selo": "",
     "website": "https://www.ecolab.com",
     "contact_email": "",
@@ -561,7 +624,7 @@
     "logo_filename": "assets/_logos/__ecolab.jpeg",
     "alt_text": "Logo Ecolab",
     "permission_use": "sim",
-    "short": "Fornecedor global de soluções para higiene, limpeza e tratamento de água.",
+    "short": "",
     "notes": "Ecolab é multinacional com ampla presença em soluções de higiene, segurança alimentar e tratamento de água. Para incluir contatos locais e certificações regionais, consultar o site e a filial brasileira.",
     "description": "Fornecendo soluções de higiene, limpeza, água e energia para indústrias, hospitais e empresas de alimentos. Perfil robusto além do varejo, com consultoria e tecnologia operacional."
   },
@@ -571,7 +634,9 @@
     "slug": "ibrame",
     "sector": "Indústria de Metais (Cobre e Alumínio)",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "ISO 14001"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -596,7 +661,11 @@
       "manejo florestal sustentável",
       "logística reversa"
     ],
-    "certifications": [],
+    "certifications": [
+      "Forest Stewardship Council (FSC)",
+      "PEFC Cerflor",
+      "Carbono Neutro"
+    ],
     "selo": "",
     "website": "https://www.klabin.com.br",
     "contact_email": "",
@@ -616,7 +685,9 @@
     "slug": "less",
     "sector": "Sistemas de Higiene / Limpeza",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Empresa B"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -636,7 +707,9 @@
     "slug": "nisus",
     "sector": "Consultoria Agroambiental e Tecnologias",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Responsible Care"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -656,7 +729,9 @@
     "slug": "nutripura",
     "sector": "Nutrição Animal / Pastagens",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Selo Verde"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -679,7 +754,9 @@
       "rotulagem orgânica",
       "produtos sem marca"
     ],
-    "certifications": [],
+    "certifications": [
+      "Sistema Brasileiro de Avaliação da Conformidade Orgânica (SisOrg)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -699,7 +776,9 @@
     "slug": "specialdog",
     "sector": "Nutrição Animal / Pet Food",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Lixo Zero (Lixo 0)"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",
@@ -723,7 +802,12 @@
       "iniciativas de manejo florestal",
       "projetos de reciclagem e biomateriais"
     ],
-    "certifications": [],
+    "certifications": [
+      "Forest Stewardship Council (FSC)",
+      "PEFC Cerflor",
+      "EU Ecolabel",
+      "Nordic Swan"
+    ],
     "selo": "",
     "website": "https://www.suzano.com.br",
     "contact_email": "",
@@ -743,7 +827,9 @@
     "slug": "veris",
     "sector": "Gestão de Resíduos / Compensação de Embalagens",
     "practices": [],
-    "certifications": [],
+    "certifications": [
+      "Muda Recicla"
+    ],
     "selo": "",
     "website": "",
     "contact_email": "",

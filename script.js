@@ -206,16 +206,25 @@ function renderCards(list) {
 }
 
 function openModal(company) {
+  // suportar: company.seals (array) ou company.selo (string antiga)
+  const sealsArray = Array.isArray(company.seals)
+    ? company.seals.slice()
+    : (company.selo ? [company.selo] : [])
+
+  const certsArray = Array.isArray(company.certifications)
+    ? company.certifications.slice()
+    : []
+
+  // unifica e remove valores falsy (inclui '', null, undefined)
+  const combined = [...sealsArray, ...certsArray].map(s => (typeof s === 'string' ? s.trim() : s)).filter(Boolean)
+
+  const certificationsDisplay = combined.length ? escapeHtml(combined.join(', ')) : '—'
+
   const practices = Array.isArray(company.practices) && company.practices.length
     ? company.practices.join(', ')
     : '—'
 
-  const certifications = Array.isArray(company.certifications) && company.certifications.length
-    ? company.certifications.join(', ')
-    : '—'
-
   const sector = company.sector || '—'
-  const selo = company.selo || '—'
   const description = company.description
     ? `<p style="margin-top:16px; line-height:1.55; font-size:15px">${escapeHtml(company.description)}</p>`
     : ''
@@ -225,7 +234,7 @@ function openModal(company) {
     ${company.short ? `<p style="color:#5d7466;margin:4px 0 10px">${escapeHtml(company.short)}</p>` : ''}
     <div style="margin-top:4px;color:#4e6259;font-size:14px;line-height:1.5">
       <strong>Setor:</strong> ${escapeHtml(sector)}<br/>
-      <strong>Selo:</strong> ${escapeHtml(selo)}<br/>
+      <strong>Certificações / Selos:</strong> ${certificationsDisplay}<br/>
       ${company.contact ? `<strong>Contato:</strong> ${escapeHtml(company.contact)}<br/>` : ''}
       ${company.website ? `<strong>Site:</strong> <a href="${encodeURI(company.website)}" target="_blank" rel="noopener">${escapeHtml(company.website)}</a><br/>` : ''}
     </div>
