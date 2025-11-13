@@ -77,8 +77,6 @@ function applyFilters(realTime = false) {
         c.service,
         c.sector,
         c.contact,
-        Array.isArray(c.practices) ? c.practices.join(' ') : '',
-        Array.isArray(c.certifications) ? c.certifications.join(' ') : ''
       ].join(' ').toLowerCase()
       return haystack.includes(lastSearch)
     })
@@ -227,8 +225,6 @@ function openModal(company) {
     ${company.short ? `<p style="color:#5d7466;margin:4px 0 10px">${escapeHtml(company.short)}</p>` : ''}
     <div style="margin-top:4px;color:#4e6259;font-size:14px;line-height:1.5">
       <strong>Setor:</strong> ${escapeHtml(sector)}<br/>
-      <strong>Práticas:</strong> ${escapeHtml(practices)}<br/>
-      <strong>Certificações:</strong> ${escapeHtml(certifications)}<br/>
       <strong>Selo:</strong> ${escapeHtml(selo)}<br/>
       ${company.contact ? `<strong>Contato:</strong> ${escapeHtml(company.contact)}<br/>` : ''}
       ${company.website ? `<strong>Site:</strong> <a href="${encodeURI(company.website)}" target="_blank" rel="noopener">${escapeHtml(company.website)}</a><br/>` : ''}

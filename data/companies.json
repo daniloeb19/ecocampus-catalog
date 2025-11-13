@@ -33,7 +33,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -42,7 +42,7 @@
     "alt_text": "Logo Brascon",
     "permission_use": "sim",
     "notes": "",
-    "description": "Consultoria ambiental e gestão de resíduos. Recomenda-se complementar com informações sobre serviços técnicos específicos (licenciamento, auditoria ambiental, programas de sustentabilidade) e canais formais de contato."
+    "description": "Consultoria ambiental e gestão de resíduos."
   },
   {
     "id": 3,
@@ -55,7 +55,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -78,7 +78,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -87,7 +87,7 @@
     "alt_text": "Logo EcoAlternativa",
     "permission_use": "sim",
     "notes": "",
-    "description": "Assessoria em temas de licenciamento e monitoramento ambiental. Sugere-se adicionar escopo de projetos (ex.: estudos ambientais, relatórios técnicos, auditorias) para fortalecer o perfil no catálogo."
+    "description": "Assessoria em temas de licenciamento e monitoramento ambiental."
   },
   {
     "id": 5,
@@ -100,7 +100,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -109,7 +109,7 @@
     "alt_text": "Logo BIOWASH",
     "permission_use": "sim",
     "notes": "",
-    "description": "Razão social: Biowash Indústria Comércio Importação e Exportação de Produtos em Geral Ltda (CNPJ 15.140.856/0001-30). Fundada em 16/02/2012 em Jarinu/SP. Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Possui atividades secundárias relacionadas a saneantes domissanitários e higiene. Não há, nas fontes consultadas, descrição detalhada pública de portfólio além da atividade básica — recomenda-se investigar linhas específicas e diferenciais ambientais."
+    "description": "Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Possui atividades secundárias relacionadas a saneantes domissanitários e higiene. Não há, nas fontes consultadas, descrição detalhada pública de portfólio além da atividade básica — recomenda-se investigar linhas específicas e diferenciais ambientais."
   },
   {
     "id": 6,
@@ -121,7 +121,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -143,7 +143,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -152,51 +152,7 @@
     "alt_text": "Logo Comadre Fulozinha",
     "permission_use": "sim",
     "notes": "",
-    "description": "Empresa sediada em Recife/PE (CNPJ ativo desde 2010: 'Comadre Fulozinha Produtos Orgânicos e Integrais'). Atua com produtos orgânicos e agroecológicos e recebe pedidos online de hortaliças, frutas, laticínios, congelados, itens beneficiados etc., entregando diretamente ao consumidor. Valoriza a ligação direta entre pequeno produtor e consumidor e mantém diversidade de categorias (horta, granel, bebidas, etc.)."
-  },
-  {
-    "id": 8,
-    "name": "Centro de Reciclagem do Nordeste",
-    "slug": "crn",
-    "sector": "Reciclagem / Gases de Refrigeração",
-    "practices": [
-      "reciclagem",
-      "gestão de resíduos"
-    ],
-    "certifications": [],
-    "selo": "",
-    "website": "https://example.com",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__crn.jpeg",
-    "alt_text": "Logo CRN",
-    "permission_use": "sim",
-    "notes": "",
-    "description": "Razão social: CRN - Centro de Regeneração e Reciclagem do Nordeste Ltda (CNPJ 16.845.767/0001-51), fundada em 13/09/2012, sede em Recife/PE (Travessa da Trindade 84, bairro São José). Atividade principal: coleta de resíduos não perigosos. Foco em descarte certificado de gases de refrigeração, botijões e eletroeletrônicos, buscando reduzir emissões atmosféricas relacionadas a gases de refrigeração no Nordeste."
-  },
-  {
-    "id": 9,
-    "name": "DescTec Natureza e Tecnologia",
-    "slug": "desctec",
-    "sector": "Reciclagem/Recuperação de Eletrônicos",
-    "practices": [
-      "remanufatura",
-      "reciclagem de eletrônicos"
-    ],
-    "certifications": [],
-    "selo": "",
-    "website": "https://example.com",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__desctec.jpeg",
-    "alt_text": "Logo DescTec",
-    "permission_use": "sim",
-    "notes": "",
-    "description": "Fundada em 2020 (CNPJ 38.229.509/0001-83) em Goiânia/GO. Especializada em gestão de resíduos de equipamentos eletroeletrônicos (REEE): coleta, triagem, descaracterização, remanufatura e reciclagem. Serviços incluem destruição segura de dados, compra de equipamentos usados, reparo/seminovos e destinação correta. Valoriza sustentabilidade em tripé ambiental, social e econômico e atua com presença ampliada nas regiões Centro-Oeste e Norte/Nordeste."
+    "description": "Atua com produtos orgânicos e agroecológicos e recebe pedidos online de hortaliças, frutas, laticínios, congelados, itens beneficiados etc., entregando diretamente ao consumidor. Valoriza a ligação direta entre pequeno produtor e consumidor e mantém diversidade de categorias (horta, granel, bebidas, etc.)."
   },
   {
     "id": 10,
@@ -209,7 +165,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -231,7 +187,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -240,29 +196,7 @@
     "alt_text": "Logo Fazenda Guata Porã",
     "permission_use": "sim",
     "notes": "",
-    "description": "Registrada como 'Fazenda Guata Porã Mercado Orgânico Brasil Companhia Digital Ltda' (CNPJ em Atibaia/SP). Produz frutas orgânicas (ex.: morangos e mix de frutas vermelhas) colhidas sem agrotóxicos ou transgênicos e comercializadas congeladas, preservando sabor, textura e nutrientes. Segue diretrizes de agricultura orgânica e atua como fazenda de cultivo e transformação voltada ao consumo consciente."
-  },
-  {
-    "id": 12,
-    "name": "Recicle Soluções Ambientais",
-    "slug": "recicle",
-    "sector": "Reciclagem",
-    "practices": [
-      "coleta e reciclagem",
-      "logística reversa"
-    ],
-    "certifications": [],
-    "selo": "",
-    "website": "https://example.com",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__recicle.jpg",
-    "alt_text": "Logo Recicle",
-    "permission_use": "sim",
-    "notes": "",
-    "description": "Empresa de reciclagem com foco em coleta, logística reversa e transformação de resíduos. Sugere-se incluir dados verificáveis sobre tipos de materiais tratados e volume anual para maior transparência."
+    "description": "Produz frutas orgânicas (ex.: morangos e mix de frutas vermelhas) colhidas sem agrotóxicos ou transgênicos e comercializadas congeladas, preservando sabor, textura e nutrientes. Segue diretrizes de agricultura orgânica e atua como fazenda de cultivo e transformação voltada ao consumo consciente."
   },
   {
     "id": 13,
@@ -275,7 +209,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -284,7 +218,7 @@
     "alt_text": "Logo Recigreen",
     "permission_use": "sim",
     "notes": "",
-    "description": "Atua no desenvolvimento de soluções tecnológicas ligadas à reciclagem e sustentabilidade. Complementar com exemplos de projetos, patentes ou parcerias para robustecer perfil."
+    "description": "Atua no desenvolvimento de soluções tecnológicas ligadas à reciclagem e sustentabilidade."
   },
   {
     "id": 14,
@@ -318,7 +252,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -327,7 +261,7 @@
     "alt_text": "Logo Sítio Boa Esperança / Ecobio",
     "permission_use": "sim",
     "notes": "Entrada combinada — considerar separar se houver dados distintos.",
-    "description": "Ecobio Produto Orgânico: empresa familiar no Rio Grande do Sul desde 1984 atuando em plantio, industrialização e comercialização de produtos orgânicos (farinhas, grãos, sementes). Missão: produzir, industrializar e comercializar produtos orgânicos de alta qualidade focados na saúde do consumidor e da natureza. Cobertura integral da cadeia produtiva facilita rastreabilidade e controle de qualidade. (Sítio Boa Esperança: complementar quando houver descrição específica separada.)"
+    "description": "Atuando em plantio, industrialização e comercialização de produtos orgânicos (farinhas, grãos, sementes). Missão: produzir, industrializar e comercializar produtos orgânicos de alta qualidade focados na saúde do consumidor e da natureza. Cobertura integral da cadeia produtiva facilita rastreabilidade e controle de qualidade."
   },
   {
     "id": 16,
@@ -340,7 +274,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -348,9 +282,9 @@
     "logo_filename": "assets/_logos/__grupo_korin.jpeg",
     "alt_text": "Logo Korin",
     "permission_use": "sim",
-    "short": "Empresa de moldes e peças plásticas técnicas reconhecida pelo Selo Verde por práticas sustentáveis.",
-    "notes": "NTC Company foi reconhecida com o 'Selo Verde' (Jornal do Meio Ambiente) por medidas como instalação de painéis solares, coleta seletiva e eficiência energética. Recomenda‑se confirmar no material de comunicação da empresa detalhes de certificações, contatos e unidades.",
-    "description": "Holding fundada em 1994 baseada na filosofia de Agricultura Natural (Mokiti Okada). Produz alimentos orgânicos e sustentáveis de origem animal e vegetal; pioneira no Brasil em frangos e ovos livres de antibióticos e transgênicos. Possui ramo de Agricultura e Meio Ambiente voltado a bioinsumos e recuperação de solo. Enfatiza integração da saúde humana, animal, vegetal e ambiental, valorizando agricultor e manejo do solo."
+    "short": "",
+    "notes": "",
+    "description": "Produz alimentos orgânicos e sustentáveis de origem animal e vegetal; pioneira no Brasil em frangos e ovos livres de antibióticos e transgênicos. Possui ramo de Agricultura e Meio Ambiente voltado a bioinsumos e recuperação de solo. Enfatiza integração da saúde humana, animal, vegetal e ambiental, valorizando agricultor e manejo do solo."
   },
   {
     "id": 17,
@@ -363,7 +297,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -403,7 +337,7 @@
     "permission_use": "sim",
     "short": "Empresa especializada em reciclagem e remanufatura de equipamentos eletrônicos, com foco em economia circular.",
     "notes": "ERS Brazil (anteriormente 'Electronics Recycling Services do Brasil') atua no descarte seguro e remanufatura de ativos de TI. Possui certificações ISO 14001, ISO 9001, ISO 45001 e R2v3, indicando práticas formais de gestão ambiental, qualidade e segurança. Verificar site para contatos e unidades regionais.",
-    "description": "Fundada em 2014 para reciclagem e extensão de ciclo de vida de eletrônicos. Sede: Alameda Vênus, 573, Distrito Empresarial American Park, Indaiatuba/SP. Unidade ~5.000 m² com capacidade de até 400 toneladas/mês. Missão: promover soluções inovadoras e sustentáveis para reuso e reciclagem de eletrônicos. Visão: referência global em economia circular e inovação sustentável até 2030. Serviços: descarte seguro de ativos de TI, remanufatura, logística reversa, destruição de dados e recuperação de componentes."
+    "description": "Missão: promover soluções inovadoras e sustentáveis para reuso e reciclagem de eletrônicos. Visão: referência global em economia circular e inovação sustentável até 2030. Serviços: descarte seguro de ativos de TI, remanufatura, logística reversa, destruição de dados e recuperação de componentes."
   },
   {
     "id": 19,
@@ -463,7 +397,7 @@
     ],
     "certifications": [],
     "selo": "",
-    "website": "https://example.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -472,7 +406,7 @@
     "alt_text": "Logo FBS",
     "permission_use": "sim",
     "notes": "",
-    "description": "Razão social: FBS Construção Civil e Pavimentação S.A. (CNPJ 66.806.555/0001-33). Sede: Avenida Dra. Ruth Cardoso, 4777, Jardim Universidade Pinheiros, São Paulo/SP. Atividade principal: construção de rodovias e ferrovias (infraestrutura pesada). Perfil voltado a grandes obras de transporte e pavimentação; recomenda-se complementar com práticas específicas de sustentabilidade em obras."
+    "description": "Perfil voltado a grandes obras de transporte e pavimentação;"
   },
   {
     "id": 22,
@@ -494,7 +428,7 @@
     "alt_text": "Logo EcoCasa",
     "permission_use": "sim",
     "notes": "",
-    "description": "Empresa de construção que incorpora materiais reciclados e práticas sustentáveis. Sugere-se detalhar portfólio (projetos residenciais/comerciais), certificações verdes (LEED, AQUA) e soluções de eficiência energética aplicadas."
+    "description": "Empresa de construção que incorpora materiais reciclados e práticas sustentáveis. Sugere-se detalhar portfólio (projetos residenciais/comerciais), e soluções de eficiência energética aplicadas."
   },
   {
     "id": 23,
@@ -516,7 +450,7 @@
     "alt_text": "Logo Ibaplac",
     "permission_use": "sim",
     "notes": "",
-    "description": "Produz materiais reciclados aplicáveis à construção. Recomendado adicionar tipos de produtos (placas, agregados, componentes) e indicadores de reaproveitamento/redução de resíduos."
+    "description": "Produz materiais reciclados aplicáveis à construção. A matéria-prima é constituída por resíduos de plástico, alumínio e caixas"
   },
   {
     "id": 24,
@@ -538,7 +472,7 @@
     "alt_text": "Logo Positiva",
     "permission_use": "sim",
     "notes": "",
-    "description": "Razão social: Positiva Comércio de Produtos e Serviços Ecológicos S.A. (CNPJ 22.121.913/0001-07). Fundada em 24/03/2015. Atividade principal: comércio varejista de produtos saneantes domissanitários (CNAE 47.89-0/05). Endereço: Rua Teodoro Sampaio, 1629, Pinheiros, São Paulo/SP. Nome sugere posicionamento ecológico; aprofundar linha de produtos e certificações."
+    "description": " Empresa que oferta produtos de limpeza para lavanderia, cozinha e também para higiene pessoal."
   },
   {
     "id": 25,
@@ -559,72 +493,7 @@
     "alt_text": "Logo Renko",
     "permission_use": "sim",
     "notes": "",
-    "description": "Razão social: Nova Renko Industrial Ltda (ex.: CNPJ 04.992.697/0001-85 - matriz Hortolândia/SP). Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Linha inclui formulados como limpadores para inox com tensoativos biodegradáveis. Importante verificar situação cadastral de cada filial e portfólio completo para reforçar aspectos sustentáveis."
-  },
-  {
-    "id": 26,
-    "name": "Nordeste Ambiental Recife Ltda",
-    "slug": "nordeste-ambiental",
-    "sector": "Serviços Ambientais / Gestão de Resíduos",
-    "practices": [
-      "serviços de gestão ambiental",
-      "consultoria"
-    ],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__nordeste_ambiental.png",
-    "alt_text": "Logo Nordeste Ambiental",
-    "permission_use": "sim",
-    "notes": "",
-    "description": "Razão social: Nordeste Ambiental Recife Ltda (CNPJ 49.871.081/0001-94). Endereço: Rua Visconde de Abaeté, 83, Tamarineira, Recife/PE. Atua em gerenciamento de resíduos (coleta, transporte, acondicionamento e destinação de resíduos perigosos e não perigosos). Apesar de constar em lista de 'produtos de limpeza', perfil é mais alinhado a serviços ambientais e gestão de resíduos — verificar se há divisão de saneantes."
-  },
-  {
-    "id": 27,
-    "name": "Artesianos Urbanismo",
-    "slug": "artesianos-urbanismo",
-    "sector": "Desenvolvimento Urbano Sustentável",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__artesianos_urbanismo.png",
-    "alt_text": "Logo Artesianos Urbanismo",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: empresa/organização possivelmente regional ligada a urbanismo/projetos urbanos. Sugestão: buscar por 'Artesianos Urbanismo' e verificar site/contato.",
-    "description": "Razão social: Artesano Urbanismo Ltda (CNPJ 13.309.427/0001-18) sediada em Barueri/SP (Alphaville). Atua em desenvolvimento urbano com foco em condomínios horizontais e bairros planejados que combinam inovação, natureza e bem-estar. Filosofia: 'Urbanismo para regenerar' — prioriza qualidade, sustentabilidade e estética arquitetônica."
-  },
-  {
-    "id": 28,
-    "name": "Brascon Gestão Ambiental (variante de logo)",
-    "slug": "brascon-gestao-ambiental-variante",
-    "sector": "Gestão Ambiental",
-    "practices": [
-      "consultoria ambiental",
-      "gestão de resíduos"
-    ],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__brascon_gestao_ambiental.jpeg",
-    "alt_text": "Logo Brascon (variante)",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Variante de logo para Brascon — não criar duplicidade de entidade se já existe a entrada principal. Preserve como arquivo alternativo ou substituir a imagem usada pela entrada existente.",
-    "description": "Variante visual da mesma empresa listada como Brascon Gestão Ambiental. Consolidar dados em uma única entrada se não houver necessidade de manter versões de logomarca."
+    "description": "Fabricação de produtos de limpeza e polimento. Linha inclui formulados como limpadores para inox com tensoativos biodegradáveis."
   },
   {
     "id": 30,
@@ -649,27 +518,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: Conam pode referir-se a diferentes organizações; buscar 'Conam + meio ambiente' ou 'Conam Brasil' para validar.",
-    "description": "Empresa de engenharia ambiental com sede em São Paulo (Rua Mourato Coelho 90, Conj. 24, Pinheiros). Atua em consultoria, investigação e remediação de áreas contaminadas, licenciamento ambiental (imobiliário, infraestrutura, elétrico, resíduos), estudos EIA/RIMA, relatórios ambientais preliminares, gestão de riscos à saúde humana e acompanhamento ambiental de obras. Equipe multidisciplinar (engenheiros ambientais/químicos, geólogos, biólogos, advogados). Missão: soluções eficazes e inovadoras respeitando o meio ambiente."
-  },
-  {
-    "id": 31,
-    "name": "DCDN",
-    "slug": "dcdn",
-    "sector": "",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__dcdn.jpeg",
-    "alt_text": "Logo DCDN",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: sigla DCDN — buscar contexto regional/segmento (ex.: DCDN reciclagem / DCDN logística).",
-    "description": "Necessário identificar expansão da sigla e validar setor (possível logística/gestão ambiental). Sem descrição pública clara até o momento."
+    "description": "Atua em consultoria, investigação e remediação de áreas contaminadas, licenciamento ambiental (imobiliário, infraestrutura, elétrico, resíduos), estudos EIA/RIMA, relatórios ambientais preliminares, gestão de riscos à saúde humana e acompanhamento ambiental de obras. Equipe multidisciplinar (engenheiros ambientais/químicos, geólogos, biólogos, advogados). Missão: soluções eficazes e inovadoras respeitando o meio ambiente."
   },
   {
     "id": 32,
@@ -689,7 +538,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: 'Desembala' possivelmente relacionado a logística/embalagens/reciclagem de embalagens. Buscar 'Desembala embalagens' para confirmar.",
-    "description": "Razão social: Desembala Soluções Sustentáveis Ltda (CNPJ 31.288.090/0001-91). Fundada em 21/08/2018 em Itajubá/MG. Atividade principal: comércio varejista de produtos saneantes domissanitários (CNAE 47.89-0-05). Oferece produtos de limpeza ecológicos em refil (sachês hidrossolúveis), reduzindo uso de plástico e embalagens, com foco em impacto ambiental reduzido."
+    "description": "Oferece produtos de limpeza ecológicos em refil (sachês hidrossolúveis), reduzindo uso de plástico e embalagens, com foco em impacto ambiental reduzido."
   },
   {
     "id": 34,
@@ -714,7 +563,7 @@
     "permission_use": "sim",
     "short": "Fornecedor global de soluções para higiene, limpeza e tratamento de água.",
     "notes": "Ecolab é multinacional com ampla presença em soluções de higiene, segurança alimentar e tratamento de água. Para incluir contatos locais e certificações regionais, consultar o site e a filial brasileira.",
-    "description": "Razão social (Brasil): Ecolab Química Ltda (CNPJ 00.536.772/0001-42). Fundada em 07/02/1995 (Barueri/SP). Atividade principal: fabricação de sabões e detergentes sintéticos (CNAE 20.61-4-00). Integrada à Ecolab Inc. global, fornecendo soluções de higiene, limpeza, água e energia para indústrias, hospitais e empresas de alimentos. Perfil robusto além do varejo, com consultoria e tecnologia operacional."
+    "description": "Fornecendo soluções de higiene, limpeza, água e energia para indústrias, hospitais e empresas de alimentos. Perfil robusto além do varejo, com consultoria e tecnologia operacional."
   },
   {
     "id": 35,
@@ -734,7 +583,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: Ibrame pode ser instituto/associação. Buscar 'Ibrame Brasil' ou 'Ibrame meio ambiente' para contexto.",
-    "description": "Grupo industrial 100% nacional que fabrica e comercializa produtos em cobre e alumínio. Apesar de listado em segmento de resíduos, sua atividade principal é transformação de metais — recomenda-se verificar iniciativas de reciclagem interna, reaproveitamento de sucata metálica e indicadores ambientais."
+    "description": "Grupo industrial 100% nacional que fabrica e comercializa produtos em cobre e alumínio. Sua atividade principal é transformação de metais."
   },
   {
     "id": 36,
@@ -779,27 +628,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: 'Less' é nome curto/ambiguo — buscar por contexto adicional (ex.: Less reciclagem/empresa Brasil).",
-    "description": "Listada como 'Less Sistemas de Higiene Ltda' em fontes de produtos de limpeza. Necessário detalhar soluções (dispensers, químicos, programas de higiene) e diferenciais sustentáveis (redução de insumos, biodegradabilidade) para perfil completo."
-  },
-  {
-    "id": 38,
-    "name": "MaxBio",
-    "slug": "maxbio",
-    "sector": "Produtos de Limpeza / Fabricante",
-    "practices": [],
-    "certifications": [],
-    "selo": "",
-    "website": "",
-    "contact_email": "",
-    "contact_phone": "",
-    "city": "",
-    "state": "",
-    "logo_filename": "assets/_logos/__maxbio.jpeg",
-    "alt_text": "Logo MaxBio",
-    "permission_use": "sim",
-    "short": "",
-    "notes": "Pesquisar: MaxBio pode estar ligado a biotecnologia/insumos naturais. Buscar 'MaxBio Brasil' ou 'MaxBio empresa' para confirmar.",
-    "description": "Razão social identificada como Z S Fabricante de Produtos de Limpeza Ltda (nome fantasia Maxbio). CNPJ 20.445.832/0001-29. Sede em Valinhos/SP. Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Pequena empresa com capital social reduzido; investigar portfólio para evidenciar aspectos de sustentabilidade (ingredientes biodegradáveis, embalagens)."
+    "description": "Produtos de higiene e limpeza para sua . Mais simples, mais  econômico e com baixo impacto ambiental."
   },
   {
     "id": 39,
@@ -819,7 +648,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: Nome genérico — buscar 'Nisus empresa Brasil' ou 'Nisus reciclagem' para identificar o ramo de atuação.",
-    "description": "Fundada em 2018, sediada em Tubarão/SC (Rua Simeão Esmeraldino de Menezes, 650 - sala 02). Atua em quatro eixos: agrícola-pecuário, ambiental, tecnológico e corporativo. Serviços incluem certificações (ISO 14000, AQUA, LEED, FSC), licenciamento ambiental, estudos de impacto, PGRS/PGRCC, perícias (laudos, TAC, PRAD), desenvolvimento tecnológico (experimentação, softwares, análises estatísticas). Visão: ser agente de transformação rumo à estabilidade socioambiental e econômica. Valores: compromisso, inovação, ética, qualidade, eficiência, sustentabilidade, empreendedorismo."
+    "description": "Atua em quatro eixos: agrícola-pecuário, ambiental, tecnológico e corporativo. Serviços incluem certificações (ISO 14000, AQUA, LEED, FSC), licenciamento ambiental, estudos de impacto, PGRS/PGRCC, perícias (laudos, TAC, PRAD), desenvolvimento tecnológico (experimentação, softwares, análises estatísticas). "
   },
   {
     "id": 40,
@@ -839,7 +668,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: possível marca de alimentos/nutrição. Buscar 'Nutripura' com termos 'alimentos' ou 'orgânico' para confirmar.",
-    "description": "Fundada em 2002 em Rondonópolis/MT. Atua em nutrição animal e manejo de pastagens, com foco em bovinos de corte. Oferece suplementos, rações e soluções para produtividade, sustentabilidade e lucratividade. Possui fábrica automatizada e centro de pesquisa próprio. Declara orientação a inovação, tecnologia e gestão sólida, com foco no cliente."
+    "description": "Atua em nutrição animal e manejo de pastagens, com foco em bovinos de corte. Oferece suplementos e rações."
   },
   {
     "id": 41,
@@ -862,7 +691,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Arquivo aparentemente genérico para produtos orgânicos sem marca; usar como placeholder quando não houver logomarca específica do fornecedor.",
-    "description": "Representa provável iniciativa de comercialização de produtos orgânicos com foco em consumo consciente e acessibilidade, sem ênfase em branding tradicional. Usado como placeholder quando não há marca identificada."
+    "description": "Comercialização de produtos orgânicos com foco em consumo consciente e acessibilidade."
   },
   {
     "id": 43,
@@ -882,7 +711,7 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: possivelmente marca de pet food/serviços para pets. Buscar 'SpecialDog' para validar.",
-    "description": "Fundada em fevereiro de 2001 em Santa Cruz do Rio Pardo/SP. Produz rações para cães de diversas idades e portes (linhas Premium, Super Premium etc.). Ressalta compromisso com bem-estar animal, qualidade e sustentabilidade, além de reputação como bom local de trabalho."
+    "description": "Produz rações para cães de diversas idades e portes. Ressalta compromisso com bem-estar animal, qualidade e sustentabilidade."
   },
   {
     "id": 44,
@@ -906,7 +735,7 @@
     "permission_use": "sim",
     "short": "Multinacional brasileira do setor de papel e celulose com iniciativas de sustentabilidade florestal.",
     "notes": "Suzano é referência nacional em papel e celulose com políticas de sustentabilidade. Consultar relatórios e site oficial para contatos, certificações e projetos de impacto ambiental.",
-    "description": "Multinacional brasileira referência em papel e celulose, com políticas de manejo florestal sustentável, projetos sociais e investimentos em inovação de biomateriais. Recomenda-se adicionar metas de redução de emissões e indicadores públicos (ex.: relatórios ESG anuais)."
+    "description": "Multinacional brasileira referência em papel e celulose, com políticas de manejo florestal sustentável, projetos sociais e investimentos em inovação de biomateriais."
   },
   {
     "id": 45,
@@ -926,6 +755,6 @@
     "permission_use": "sim",
     "short": "",
     "notes": "Pesquisar: 'Veris' pode ser nome de consultoria, fintech ou outro; buscar 'Veris Brasil' para identificar corretamente.",
-    "description": "Certificada com o selo 'Selo Muda Recicla', indicando compromisso com compensação ambiental de embalagens pós-consumo (garantia de encaminhamento para reciclagem). Foco em aumento de taxa de reciclagem, conservação de recursos naturais, redução de CO₂ e apoio a cooperativas. Não há descrição detalhada pública de serviços de coleta/tratamento — perfil voltado a compensação."
+    "description": "A Veris Brasil é uma empresa de óleos vegetais que oferece serviços de terceirização para extração, filtração e envase de óleos. Ela também atua em gestão de resíduos ao participar de um sistema de logística reversa e compensação de embalagens."
   }
 ]
