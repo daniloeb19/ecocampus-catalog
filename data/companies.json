@@ -22,7 +22,7 @@
     "alt_text": "Logo Ultra Mega",
     "permission_use": "sim",
     "notes": "",
-    "description": "Empresa listada com práticas sustentáveis (painéis solares, coleta seletiva e iluminação LED). Aprofundar portfólio e escopo industrial para detalhar soluções tecnológicas ou de eficiência energética."
+    "description": "A Ultramega é uma distribuidora de medicamentos, materiais hospitalares e odontológicos."
   },
   {
     "id": 2,
@@ -120,7 +120,7 @@
     "alt_text": "Logo BIOWASH",
     "permission_use": "sim",
     "notes": "",
-    "description": "Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Possui atividades secundárias relacionadas a saneantes domissanitários e higiene. Não há, nas fontes consultadas, descrição detalhada pública de portfólio além da atividade básica — recomenda-se investigar linhas específicas e diferenciais ambientais."
+    "description": "Atividade principal: fabricação de produtos de limpeza e polimento (CNAE 20.62-2-00). Possui atividades secundárias relacionadas a saneantes domissanitários e higiene."
   },
   {
     "id": 6,
@@ -192,7 +192,7 @@
     "alt_text": "Logo Ecobras",
     "permission_use": "sim",
     "notes": "",
-    "description": "Razão social: Ecobras Gestão Ambiental Ltda (CNPJ 47.856.874/0001-09) com sede em Paulista/PE. Especializada em resíduos eletroeletrônicos na região Nordeste. Destaca a transformação de resíduos mistos eletrônicos em chapas plásticas sustentáveis e emissão de CDR (Certificado de Destinação de Resíduos), alinhando-se a princípios de economia circular."
+    "description": "Especializada em resíduos eletroeletrônicos na região Nordeste. Destaca a transformação de resíduos mistos eletrônicos em chapas plásticas sustentáveis e emissão de CDR (Certificado de Destinação de Resíduos), alinhando-se a princípios de economia circular."
   },
   {
     "id": 11,
@@ -307,7 +307,7 @@
       "Nenhum Antibiótico e Nenhum Anticoccidiano Utilizado (NAAU)"
     ],
     "selo": "",
-    "website": "https://www.korin.com.br",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -362,7 +362,7 @@
       "R2v3"
     ],
     "selo": "",
-    "website": "https://ersbrazil.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -473,7 +473,7 @@
     "alt_text": "Logo EcoCasa",
     "permission_use": "sim",
     "notes": "Pesquisar: EcoCasa possivelmente detalhar portfólio (projetos residenciais/comerciais), e soluções de eficiência energética aplicadas.",
-    "description": "Empresa de construção que incorpora materiais reciclados e práticas sustentáveis. Sugere-se detalhar portfólio (projetos residenciais/comerciais), e soluções de eficiência energética aplicadas."
+    "description": "Empresa de construção que incorpora materiais reciclados e práticas sustentáveis. Sugere-se detalhar soluções de eficiência energética aplicadas."
   },
   {
     "id": 23,
@@ -616,7 +616,7 @@
       "USDA Biobased"
     ],
     "selo": "",
-    "website": "https://www.ecolab.com",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -667,7 +667,7 @@
       "Carbono Neutro"
     ],
     "selo": "",
-    "website": "https://www.klabin.com.br",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
@@ -677,7 +677,7 @@
     "permission_use": "sim",
     "short": "Empresa brasileira líder em papel e celulose com iniciativas de sustentabilidade e economia circular.",
     "notes": "Klabin desenvolve programas de manejo florestal responsável, reciclagem e projetos de economia circular. Use o site oficial para validar contatos, certificações e programas ambientais específicos.",
-    "description": "Empresa líder nacional em papel e celulose com programas de manejo florestal sustentável, reciclagem de fibras e investimentos em economia circular. Destaca logística reversa, pesquisa em biomateriais e metas de redução de impacto ambiental. Complementar com relatórios ESG anuais."
+    "description": "Empresa líder nacional em papel e celulose com programas de manejo florestal sustentável, reciclagem de fibras e investimentos em economia circular. Destaca logística reversa, pesquisa em biomateriais e metas de redução de impacto ambiental."
   },
   {
     "id": 37,
@@ -809,7 +809,7 @@
       "Nordic Swan"
     ],
     "selo": "",
-    "website": "https://www.suzano.com.br",
+    "website": "",
     "contact_email": "",
     "contact_phone": "",
     "city": "",
